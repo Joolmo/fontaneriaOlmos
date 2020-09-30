@@ -1,0 +1,4 @@
+---
+templateKey: page
+---
+# New page
